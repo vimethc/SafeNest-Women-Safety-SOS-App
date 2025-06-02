@@ -1,0 +1,1 @@
+ /Users/chamma/Documents/GitHub/SafeNest-Women-Safety-SOS-App/.dart_tool/flutter_build/6820fa76092c553c273b17e10e2109b4/native_assets.json: 
